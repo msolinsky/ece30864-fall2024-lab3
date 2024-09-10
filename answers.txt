@@ -1,3 +1,7 @@
 Question 1:
 One pro of agile development include the ability to adapt project specificaitons and requirements throughout the course of requirements. Another is the ability to show prototypes throughout the span of the project. 
 Cons of agile development include disorganization of code as well lack of planning. 
+
+Question 2: 
+The product owner is responsible for the software that is being developed and communicating between the developers and stakeholders. Their job is to ensure the stakeholders are happy with the development and to help update the project with any new requirements from the stakeholders.
+The scrum masters responsibilities include hosting the different meetings/ceremonies such as standup and ensuring that everyone is able to do their work. They are responsible for removing potential blockers for the developers.
