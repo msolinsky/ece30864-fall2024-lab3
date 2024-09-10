@@ -24,3 +24,9 @@ Sprint Review:
   -discussion:
     what progresss was made in the last sprint
     demo accomplishments to stakeholders
+
+Question 4:
+An epic is a large amount of work that can be broken down into smaller assignments.
+These smaller assignments are stories. They are generally smaller amounts of work that are able to be summarized in 3 short sentences.
+Bugs represent a small issue that is occurring somewhere within the code. 
+A task is a piece of work that is able to be tracked throughout the workflow and it can range in size.
