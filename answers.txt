@@ -5,3 +5,22 @@ Cons of agile development include disorganization of code as well lack of planni
 Question 2: 
 The product owner is responsible for the software that is being developed and communicating between the developers and stakeholders. Their job is to ensure the stakeholders are happy with the development and to help update the project with any new requirements from the stakeholders.
 The scrum masters responsibilities include hosting the different meetings/ceremonies such as standup and ensuring that everyone is able to do their work. They are responsible for removing potential blockers for the developers.
+
+Question 3:
+Standup:
+  -happens every day
+  -should be around 15 minutes
+  -discussion:
+    what progress was made in previous day
+    any blockers
+    what everyone is going to work on today/next day
+Sprint Planning:
+  -happens roughly every 2 weeks
+  -discussion:
+    what the team want's to accomplish in the next sprint cycle
+    any potential issues that may come up 
+Sprint Review:
+  -happens roughly every 2 weeks
+  -discussion:
+    what progresss was made in the last sprint
+    demo accomplishments to stakeholders
